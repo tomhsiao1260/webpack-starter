@@ -22,6 +22,6 @@ npm run build
 
 ### Reference
 
-https://dev.to/alecgodwin/how-to-setup-webpack-and-babel-for-es6-dpk
-https://webpack.js.org/guides/asset-management/
-https://webpack.js.org/loaders/sass-loader/
+* Webpack + Babel : https://dev.to/alecgodwin/how-to-setup-webpack-and-babel-for-es6-dpk
+* CSS + file-loader : https://webpack.js.org/guides/asset-management/
+* SASS : https://webpack.js.org/loaders/sass-loader/
