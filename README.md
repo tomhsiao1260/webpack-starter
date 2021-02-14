@@ -25,3 +25,4 @@ npm run build
 * Webpack + Babel : https://dev.to/alecgodwin/how-to-setup-webpack-and-babel-for-es6-dpk
 * CSS + file-loader : https://webpack.js.org/guides/asset-management/
 * SASS : https://webpack.js.org/loaders/sass-loader/
+* Dev + Prod : https://webpack.js.org/guides/production/
