@@ -11,7 +11,7 @@ npm install
 ### Start Dev Server
 
 ```
-npm start
+npm run dev
 ```
 
 ### Build Prod Version
